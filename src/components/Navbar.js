@@ -2,8 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import './Navbar.css';
 
-// Components
-import Button from './Button';
+import PDF from '../resume/SOFIA-MEJIA-CV-UX.pdf';
 
 const Navbar = () => {
   
@@ -54,9 +53,9 @@ const Navbar = () => {
               </Link>
             </li>
             <li className='nav-item'>
-              <Link to='/resume' className='nav-links' onClick={closeMobileMenu}>
+              <a href={PDF} target= "_blank" className='nav-links' onClick={closeMobileMenu}>
                 RESUME
-              </Link>
+              </a>
             </li>
             <li className='nav-item'>
               <Link to='/contact' className='nav-links' onClick={closeMobileMenu}>

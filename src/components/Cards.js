@@ -5,7 +5,6 @@ import CardItem from './CardItem';
 function Cards() {
   return (
     <div className='cards'>
-      <h3>Conversational Desing Projects</h3>
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
@@ -21,10 +20,6 @@ function Cards() {
               label='Voice Interface'
               path='/quien-sabe-mas'
             />
-           
-          </ul>
-          <ul className='cards__items'>
-           
             <CardItem
               src='images/bot.png'
               text='SAP chatbot'
@@ -32,13 +27,12 @@ function Cards() {
               path='/sap-chatbot'
             />
             <CardItem
-              src='images/bot.png'
+              src='images/pokemon.jpeg'
               text='pokemon'
               label='UX Research'
               path='/pokemon-go'
             />
           </ul>
-          
         </div>
       </div>
     </div>

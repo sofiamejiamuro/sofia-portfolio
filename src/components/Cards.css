@@ -2,6 +2,7 @@
   height: 85vh;
   width: 100%;
   background: #fff;
+  display: flex;
 }
 
 h3 {
@@ -11,16 +12,13 @@ h3 {
 
 .cards__container {
   display: flex;
-  flex-flow: column;
+  flex-direction: row;
+  justify-content: center;
   align-items: center;
-  max-width: 1120px;
-  width: 80%; 
-  margin: 0 auto;
+  width: 100%;
 }
 
 .cards__wrapper {
-  position: relative;
-  /* margin: 50px 0 45px; */
 }
 
 .cards__items {
