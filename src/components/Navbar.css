@@ -1,6 +1,6 @@
 .navbar {
   background:#1d2228;
-  height: 10vh;
+  height: 15vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -37,12 +37,11 @@
 .nav-menu {
   display: grid;
   grid-template-columns: repeat(5, auto);
-/*   grid-gap: 10px; */
+  grid-gap: 20px;
   list-style: none;
   text-align: center;
   width: 60vw;
-  justify-content: end;
-  margin-right: 2rem;
+  justify-content: center;
 }
 
 .nav-item {

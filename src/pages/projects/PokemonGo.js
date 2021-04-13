@@ -1,4 +1,4 @@
-const Pokedex = () => {
+const PokemonGo = () => {
   return (
     <div>
       Pokedex
@@ -6,4 +6,4 @@ const Pokedex = () => {
   )
 }
 
-export default Pokedex;
+export default PokemonGo;

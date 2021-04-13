@@ -11,7 +11,7 @@ import Resume from './pages/Resume';
 import Contact from './pages/Contact';
 import PlanetaPeligro from './pages/projects/PlanetaPeligro';
 import QuienSabeMas from './pages/projects/QuienSabeMas';
-import Pokedex from './pages/projects/Pokedex';
+import PokemonGo from './pages/projects/PokemonGo';
 
 function App() {
   return (
@@ -26,7 +26,7 @@ function App() {
           <Route path="/contact" exact component={Contact}/>
           <Route path="/planeta-peligro" exact component={PlanetaPeligro}/>
           <Route path="/quien-sabe-mas" exact component={QuienSabeMas}/>
-          <Route path="/pokedex" exact component={Pokedex}/>
+          <Route path="/pokemon-go" exact component={PokemonGo}/>
         </Switch>
       </Router> 
     </>
