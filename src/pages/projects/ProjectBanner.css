@@ -1,0 +1,13 @@
+.project-bar{
+  height: 15vh;
+  width: 100%;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  background-image: linear-gradient(to right,#560a86, #7122FA, #F148FB, #FFACFC);
+}
+
+.project-bar >  h3, h2 {
+  color: #f5f5f5;
+  text-align: center;
+}

@@ -21,6 +21,10 @@
   margin: 20px;
 }
 
+i:hover {
+  transform: scale(1.2);
+}
+
 .icon-linkedin{
   color: #560a86;
 }
