@@ -4,6 +4,7 @@ import './Projects.css';
 
 const PlanetaPeligro = () => {
   return (
+    // Meterle imagen
     <div>
       <ProjectBanner 
         area="Conversational Interface Design"
