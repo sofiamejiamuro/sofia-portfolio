@@ -38,14 +38,10 @@
   max-width: 60%;
 }
 
-.project-content > .movie {
-  width: 100%;
+i, a {
+  color: blueviolet;
 }
 
-
-
-video{
-  height: 500px;
-  width: 800px;
-  border: solid 3px green;
+.project-content > ul {
+  list-style-type: none;
 }
