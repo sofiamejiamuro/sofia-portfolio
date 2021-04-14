@@ -31,17 +31,42 @@
 .project-content > .text_img > .img >figure > .four {
   max-width: 40%;
 }
-.project-content > figure > .five{
+.project-content > figure > .five {
   max-width: 100%;
 }
 .project-content > .text_img > .img > figure > .six {
   max-width: 60%;
 }
 
-i, a {
+.repo {
   color: blueviolet;
 }
 
+.repo:hover{
+  color: #F148FB;
+}
+
 .project-content > ul {
-  list-style-type: none;
+  list-style-type: "💬";
+  line-height: 1.5em;
+  padding: 0 0 0 50px;
+}
+
+li {
+  padding: 0 0 0 15px;
+}
+
+.project-content > p, h5 {
+  padding: 0 1.5rem;
+}
+
+.project-content > .list-container {
+  display:flex;
+  align-items: center;
+}
+
+.project-content > .list-container > .list > ul {
+  list-style-type: "💬";
+  line-height: 1.5em;
+  padding: 0 0 0 50px;
 }

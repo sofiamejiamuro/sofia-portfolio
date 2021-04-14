@@ -12,13 +12,7 @@
   object-fit: contain; */ 
 }
 
-.about-container > .left {
-  width: 50%;
-}
 
-.about-container > .right {
-  width: 50%;
-}
 
 .left > figure > img {
   max-width: 60%;
@@ -29,6 +23,6 @@
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
 
-.right > p {
-  padding: 30px 100px 30px 30px;
+.right {
+  padding: 0 100px 0 0;
 }

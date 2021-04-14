@@ -25,7 +25,7 @@ function Cards() {
               text='Pokemon'
               label='UX Research'
               path='/pokemon-go'
-            />
+            />{/* 
             <CardItem
               src='images/projects/quien-sabe-mas.jpg'
               text='¿Quién sabe más?'
@@ -38,7 +38,7 @@ function Cards() {
               label='Chatbot'
               path='/sap-chatbot'
             />
-            
+             */}
           </ul>
         </div>
       </div>

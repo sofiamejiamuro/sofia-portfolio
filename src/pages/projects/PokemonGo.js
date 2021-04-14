@@ -167,7 +167,7 @@ const PokemonGo = () => {
         <p>Para hacer este prototipo se utilizó marvel.</p>
         <h4>TESTEOS DE USABILIDAD</h4>
         <p>En las primeras pruebas se integró la búsqueda por tipo, se agrego el valor "required" a el input de búsqueda por nombre. En las siguientes pruebas se hizo cambio de color siguiendo las recomendaciones de Dení.</p>
-        <p><a href="https://github.com/sofiamejiamuro/Monster-Compare-v1"><i className="fab fa-github"></i> Repositorio con el código de programación</a></p>
+        <p><a href="https://github.com/sofiamejiamuro/Monster-Compare-v1" className="repo" target="_blank"><i className="fab fa-github repo"></i> Repositorio con el código de programación</a></p>
       </div>
     </div>
   )
