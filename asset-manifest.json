@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sofiamejiamuro/sofia-portfolio/static/css/main.8e2dadcb.chunk.css",
-    "main.js": "/sofiamejiamuro/sofia-portfolio/static/js/main.f5a0ff58.chunk.js",
-    "main.js.map": "/sofiamejiamuro/sofia-portfolio/static/js/main.f5a0ff58.chunk.js.map",
+    "main.js": "/sofiamejiamuro/sofia-portfolio/static/js/main.abe2b279.chunk.js",
+    "main.js.map": "/sofiamejiamuro/sofia-portfolio/static/js/main.abe2b279.chunk.js.map",
     "runtime-main.js": "/sofiamejiamuro/sofia-portfolio/static/js/runtime-main.20b32ce5.js",
     "runtime-main.js.map": "/sofiamejiamuro/sofia-portfolio/static/js/runtime-main.20b32ce5.js.map",
     "static/css/2.5c573378.chunk.css": "/sofiamejiamuro/sofia-portfolio/static/css/2.5c573378.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.5c573378.chunk.css",
     "static/js/2.ac78a778.chunk.js",
     "static/css/main.8e2dadcb.chunk.css",
-    "static/js/main.f5a0ff58.chunk.js"
+    "static/js/main.abe2b279.chunk.js"
   ]
 }
