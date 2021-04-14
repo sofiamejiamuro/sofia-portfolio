@@ -24,7 +24,7 @@ const PokemonGo = () => {
           <div className="img">
             <figure >
               <img 
-                src='/images/projects/pokemon/SofiaYPokemon.jpg' alt="pokemon_1"
+                src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e019b9117528361.60775eda682f3.jpg' alt="pokemon_1"
                 className="one"
               />
             </figure>
@@ -35,24 +35,16 @@ const PokemonGo = () => {
         <p>En resumen, las necesidades de los usuarios eran saber los Individual Values (IV) que son los valores individuales de cada pokémon; ataque, defensa y estamina (vida), datos útiles a la hora de combate, y saber sobre los ataques de cada pokémon.</p>
         <h4>¿PROPUESTA?</h4>
         <p>Al conocer las necesidades de los usuarios el planteamiento fue hacer una página web que permitiera comparar esas características entre dos o tres ejemplares de pokémon.</p>
-
-        <div className="text_img">
-          <div className="text">
-            <h4>PROBLEMÁTICA</h4>
-            <p>Ahora que ya tenía de dónde partir, contrasté la data proporcionada en el archivo src con lo mostrado en la interfaz del juego.</p>
-          
-            <p>Al revisar la data que se proporcionó y las necesidades que se detectaron en las entrevistas… !Oh sorpresa! No se ajustaban,fue entonces que hice un poco de investigación en blogs y videos de youtube donde confirmé que las necesidades que se expresaron en las entrevistas eran generalizadas. En este punto investigué qué herramientas proporcionan una resolución a esas sugerencias, se econtraron dos aplicaciones para Android y una para IOS, sin embargo ninguna de ellas compara los valores de los pokemones.</p>
-          </div>
-          <div className="img">
-            <figure >
-              <img 
-                src='/images/projects/pokemon/Datos.png' alt="pokemon_3"
-                className="two"
-              />
-            </figure>
-          </div>
-        </div>
-
+        <h4>PROBLEMÁTICA</h4>
+        <p>Ahora que ya tenía de dónde partir, contrasté la data proporcionada en el archivo src con lo mostrado en la interfaz del juego.</p>
+      
+        <p>Al revisar la data que se proporcionó y las necesidades que se detectaron en las entrevistas… !Oh sorpresa! No se ajustaban,fue entonces que hice un poco de investigación en blogs y videos de youtube donde confirmé que las necesidades que se expresaron en las entrevistas eran generalizadas. En este punto investigué qué herramientas proporcionan una resolución a esas sugerencias, se econtraron dos aplicaciones para Android y una para IOS, sin embargo ninguna de ellas compara los valores de los pokemones.</p>
+        <figure >
+          <img 
+            src='https://mir-s3-cdn-cf.behance.net/project_modules/1400/6517f9117528361.60775eda6785b.png' alt="pokemon_3"
+            className="five"
+          />
+        </figure>
         <p>Estas aplicaciones te proporcionan el IV a partir del Poder de Combate (PC) y los Puntos de Salud (PS) de cada pokémon, ambos datos sí los proporciona la app POKÉMON GO sin embargo no están dentro de la data proporcionada en el src del proyecto Data Lovers.</p>
 
         <p>En este punto habaía dos opciones, meter los datos de los 151 pokemones manualmente o restringirme a la data proporcionada. Por cuestiones de tiempo … y de salud mental opté por la segunda.</p>
@@ -70,14 +62,14 @@ const PokemonGo = () => {
         <p>Recibí dos comentarios acerca de nuestra encuesta. El primero...</p>
         <figure >
           <img 
-            src='/images/projects/pokemon/Feedback3.png' alt="pokemon_5"
+            src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b12870117528361.60775eda67ca3.png' alt="pokemon_5"
             className="three"
           />
         </figure>
         <p>El segundo...</p>
         <figure >
           <img 
-            src='/images/projects/pokemon/feedback2.png' alt="pokemon_5"
+            src='https://mir-s3-cdn-cf.behance.net/project_modules/disp/0feb00117528361.60775eda67356.png' alt="pokemon_5"
           />
         </figure>
         <p>Como se puede notar, las necesidades de los usuarios son los IV, datos que tampoco proporciona la app POKÉMON GO.</p>
@@ -87,7 +79,7 @@ const PokemonGo = () => {
         <figure >
           <figcaption>Rangos de Edad</figcaption>
           <img 
-            src='/images/projects/pokemon/edades.png' alt="pokemon_5"
+            src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/308236117528361.60775eda660d0.png' alt="pokemon_5"
             className="three"
           />
         </figure>
@@ -95,7 +87,7 @@ const PokemonGo = () => {
         <figure >
           <figcaption>Géneros</figcaption>   
           <img 
-            src='/images/projects/pokemon/genero.png' alt="pokemon_5"
+            src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e218db117528361.60775eda688c2.png' alt="pokemon_5"
             className="three"
           />
         </figure>
@@ -104,7 +96,7 @@ const PokemonGo = () => {
         <figure >
           <figcaption>Carácteristicas</figcaption>
           <img 
-            src='/images/projects/pokemon/comparacion.png' alt="pokemon_5"
+            src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0013e8117528361.60775eda6900e.png' alt="pokemon_5"
             className="three"
           />
         </figure>
@@ -119,7 +111,7 @@ const PokemonGo = () => {
           <div className="img">
             <figure>
             <img 
-              src='/images/projects/pokemon/historiaUsuario.jpg' alt="pokemon_5"
+              src='https://mir-s3-cdn-cf.behance.net/project_modules/1400/b351c2117528361.60775eda66852.jpg' alt="pokemon_5"
               className="four"
             />
           </figure>
@@ -132,14 +124,14 @@ const PokemonGo = () => {
         <a href="https://veekun.com/dex/gadgets/compare_pokemon" target="_blank" >Veekun</a>
         <figure>
           <img 
-            src='/images/projects/pokemon/comparacion1.png' alt="pokemon_5"
+            src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d9934e117528361.60775eda69ec4.png' alt="pokemon_5"
             className="five"
           />
         </figure>
         <a href="http://www.psypokes.com/dex/compare.php" target="_blank" >Psypoke</a>
         <figure>
           <img 
-            src='/images/projects/pokemon/comparacion2.png' alt="pokemon_5"
+            src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bf33dd117528361.60775eda65973.png' alt="pokemon_5"
             className="five"
           />
         </figure>
@@ -149,7 +141,7 @@ const PokemonGo = () => {
           <div className="img">
             <figure>
               <img 
-                src='/images/projects/pokemon/compare1.png' alt="pokemon_5"
+                src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/98754a117528361.60775eda6548b.png' alt="pokemon_5"
                 className="six"
               />
           </figure>
@@ -157,7 +149,7 @@ const PokemonGo = () => {
           <div className="img">
             <figure>
               <img 
-                src='/images/projects/pokemon/compare4.png' alt="pokemon_5"
+                src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/96e17d117528361.60775eda66eb2.png' alt="pokemon_5"
                 className="six"
               />
             </figure>

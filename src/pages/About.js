@@ -7,7 +7,7 @@ const About = () => {
       <div className="left">
         <figure >
           <img 
-            src='/images/s.jpg' alt="me"
+            src='https://mir-s3-cdn-cf.behance.net/project_modules/1400/41c38b117530457.60776acaa4c5f.jpg' alt="me"
             className="about__img card__container"
           />
         </figure>

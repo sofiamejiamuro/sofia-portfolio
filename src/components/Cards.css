@@ -1,6 +1,6 @@
 .cards {
-  height: 85vh;
   width: 100%;
+  padding: 50px 0;
   background: #fff;
   display: flex;
 }

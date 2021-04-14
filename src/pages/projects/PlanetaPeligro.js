@@ -29,7 +29,7 @@ const PlanetaPeligro = () => {
         </ul>
         <figure >
           <img 
-            src='/images/projects/planeta-peligro/ux.png' alt="planeta-peligro_1"
+            src='https://mir-s3-cdn-cf.behance.net/project_modules/1400/ca5726117528221.60775e3924f84.png' alt="planeta-peligro_1"
             className="five"
           />
         </figure>
@@ -39,7 +39,7 @@ const PlanetaPeligro = () => {
         <p>Para la estructuración del guión se utilizo una tabla para registrar el input del usuario, las respuestas del bot y los sonidos e imagenes para cada interacción </p>
         <figure >
           <img 
-            src='/images/projects/planeta-peligro/dialog-table.png' alt="planeta-peligro_1"
+            src='https://mir-s3-cdn-cf.behance.net/project_modules/1400/d58e8f117528221.60775e3924176.png' alt="planeta-peligro_1"
             className="five"
           />
         </figure>

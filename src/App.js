@@ -1,6 +1,6 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { HashRouter as Router, Switch, Route } from 'react-router-dom'; 
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'; 
 
 // Components
 import Navbar from './components/Navbar';
@@ -12,6 +12,7 @@ import PlanetaPeligro from './pages/projects/PlanetaPeligro';
 import QuienSabeMas from './pages/projects/QuienSabeMas';
 import PokemonGo from './pages/projects/PokemonGo';
 import CielitoQuerido from './pages/projects/CielitoQueridoBot';
+import BenAndFrank from './pages/projects/BenAndFrank';
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
           <Route path="/quien-sabe-mas" exact component={QuienSabeMas}/>
           <Route path="/pokemon-go" exact component={PokemonGo}/>
           <Route path="/cielito-querido" exact component={CielitoQuerido}/>
+          <Route path="/ben-and-frank" exact component={BenAndFrank}/>
         </Switch>
       </Router> 
     </>
