@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/sofiamejiamuro/sofia-portfolio/static/css/main.8e2dadcb.chunk.css",
-    "main.js": "/sofiamejiamuro/sofia-portfolio/static/js/main.f5a0ff58.chunk.js",
-    "main.js.map": "/sofiamejiamuro/sofia-portfolio/static/js/main.f5a0ff58.chunk.js.map",
+    "main.css": "/sofiamejiamuro/sofia-portfolio/static/css/main.db279a20.chunk.css",
+    "main.js": "/sofiamejiamuro/sofia-portfolio/static/js/main.8bb00344.chunk.js",
+    "main.js.map": "/sofiamejiamuro/sofia-portfolio/static/js/main.8bb00344.chunk.js.map",
     "runtime-main.js": "/sofiamejiamuro/sofia-portfolio/static/js/runtime-main.20b32ce5.js",
     "runtime-main.js.map": "/sofiamejiamuro/sofia-portfolio/static/js/runtime-main.20b32ce5.js.map",
     "static/css/2.5c573378.chunk.css": "/sofiamejiamuro/sofia-portfolio/static/css/2.5c573378.chunk.css",
-    "static/js/2.ac78a778.chunk.js": "/sofiamejiamuro/sofia-portfolio/static/js/2.ac78a778.chunk.js",
-    "static/js/2.ac78a778.chunk.js.map": "/sofiamejiamuro/sofia-portfolio/static/js/2.ac78a778.chunk.js.map",
+    "static/js/2.1ee97826.chunk.js": "/sofiamejiamuro/sofia-portfolio/static/js/2.1ee97826.chunk.js",
+    "static/js/2.1ee97826.chunk.js.map": "/sofiamejiamuro/sofia-portfolio/static/js/2.1ee97826.chunk.js.map",
     "index.html": "/sofiamejiamuro/sofia-portfolio/index.html",
     "static/css/2.5c573378.chunk.css.map": "/sofiamejiamuro/sofia-portfolio/static/css/2.5c573378.chunk.css.map",
-    "static/css/main.8e2dadcb.chunk.css.map": "/sofiamejiamuro/sofia-portfolio/static/css/main.8e2dadcb.chunk.css.map",
-    "static/js/2.ac78a778.chunk.js.LICENSE.txt": "/sofiamejiamuro/sofia-portfolio/static/js/2.ac78a778.chunk.js.LICENSE.txt",
+    "static/css/main.db279a20.chunk.css.map": "/sofiamejiamuro/sofia-portfolio/static/css/main.db279a20.chunk.css.map",
+    "static/js/2.1ee97826.chunk.js.LICENSE.txt": "/sofiamejiamuro/sofia-portfolio/static/js/2.1ee97826.chunk.js.LICENSE.txt",
     "static/media/SOFIA-MEJIA-CV-UX.c16876be.pdf": "/sofiamejiamuro/sofia-portfolio/static/media/SOFIA-MEJIA-CV-UX.c16876be.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.20b32ce5.js",
     "static/css/2.5c573378.chunk.css",
-    "static/js/2.ac78a778.chunk.js",
-    "static/css/main.8e2dadcb.chunk.css",
-    "static/js/main.f5a0ff58.chunk.js"
+    "static/js/2.1ee97826.chunk.js",
+    "static/css/main.db279a20.chunk.css",
+    "static/js/main.8bb00344.chunk.js"
   ]
 }
