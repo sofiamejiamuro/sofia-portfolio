@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import './Navbar.css';
 
-import PDF from '../resume/SOFIA-MEJIA-CV-UX.pdf';
+import PDF from '../../resume/SOFIA-MEJIA-CV-UX.pdf';
 
 const Navbar = () => {
   

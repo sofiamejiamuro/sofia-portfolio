@@ -4,8 +4,8 @@ import React from 'react';
 import './Projects.css';
 
 // Components
-import Cards from '../components/Cards';
-import '../components/Cards.css';
+import Cards from '../../components/Cards/Cards';
+import '../../components/Cards/Cards.css';
 
 const Projects = () => {
   return (

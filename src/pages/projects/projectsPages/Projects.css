@@ -1,0 +1,72 @@
+.project-content{
+  width: 100%;
+  padding: 5% 10%;
+}
+.project-content > .text_img{
+  display:flex;
+  align-items: center;
+}
+.project-content > .text_img > .img >figure > img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+} 
+.project-content > figure > img{
+  display: block;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.project-content > .text_img > .img >figure > .one {
+  max-width: 40%;
+}
+.project-content > .text_img > .img > figure > .two {
+  max-width: 100%;
+}
+
+.project-content > figure > .three{
+  max-width: 50%;
+}
+.project-content > .text_img > .img >figure > .four {
+  max-width: 40%;
+}
+.project-content > figure > .five {
+  max-width: 100%;
+}
+.project-content > .text_img > .img > figure > .six {
+  max-width: 60%;
+}
+
+.repo {
+  color: blueviolet;
+}
+
+.repo:hover{
+  color: #F148FB;
+}
+
+.project-content > ul {
+  list-style-type: "💬";
+  line-height: 1.5em;
+  padding: 0 0 0 50px;
+}
+
+li {
+  padding: 0 0 0 15px;
+}
+
+.project-content > p, h5 {
+  padding: 0 1.5rem;
+}
+
+.project-content > .list-container {
+  display:flex;
+  align-items: center;
+}
+
+.project-content > .list-container > .list > ul {
+  list-style-type: "💬";
+  line-height: 1.5em;
+  padding: 0 0 0 50px;
+}

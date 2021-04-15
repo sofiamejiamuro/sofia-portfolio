@@ -1,10 +1,10 @@
 import React from 'react';
-import '../App.css';
+import './Home.css';
 
 // Components
-import HeroSection from '../components/HeroSection';
-import About from './About';
-import Projects from './Projects';
+import HeroSection from '../../components/HeroSection/HeroSection';
+import About from '../About/About';
+import Projects from '../Projects/Projects';
 
 const Home = () => {
   return (
