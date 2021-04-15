@@ -1,8 +1,12 @@
 .cards {
+  height: 85vh;
   width: 100%;
   padding: 50px 0;
   background: #fff;
-  display: flex;
+  flex-direction: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
 }
 
 .cards__container {
@@ -108,4 +112,4 @@
   .cards__item {
     margin-bottom: 2rem;
   }
-}
+} 

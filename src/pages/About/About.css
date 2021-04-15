@@ -12,8 +12,6 @@
   object-fit: contain; */ 
 }
 
-
-
 .left > figure > img {
   max-width: 60%;
   display: block;
@@ -25,4 +23,21 @@
 
 .right {
   padding: 0 100px 0 0;
+}
+
+@media screen and (max-width: 480px) {
+  .about-container {
+    display: block;
+  }
+  .left {
+    padding: 20px;
+  }
+  .left > figure > img {
+    max-width: 80%;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  }
+  .right{
+    padding: 30px;
+  }
 }
