@@ -15,7 +15,7 @@ import PlanetaPeligro from './pages/Projects/projectsPages/PlanetaPeligro';
 import QuienSabeMas from './pages/Projects/projectsPages/QuienSabeMas';
 import PokemonGo from './pages/Projects/projectsPages/PokemonGo';
 import CielitoQuerido from './pages/Projects/projectsPages/CielitoQueridoBot';
-import BenAndFrank from './pages/Projects/projectsPages/BenAndFrank';
+import GuruDeViaje from './pages/Projects/projectsPages/GuruDeViaje';
 
 const Routes = () => {
   return (
@@ -30,7 +30,7 @@ const Routes = () => {
         <Route path="/quien-sabe-mas" exact component={QuienSabeMas}/>
         <Route path="/pokemon-go" exact component={PokemonGo}/>
         <Route path="/cielito-querido" exact component={CielitoQuerido}/>
-        <Route path="/ben-and-frank" exact component={BenAndFrank}/>
+        <Route path="/guru-de-viaje" exact component={GuruDeViaje}/>
       </Switch>
     </>
   )

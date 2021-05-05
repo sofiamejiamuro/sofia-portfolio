@@ -15,10 +15,10 @@ function Cards() {
               path='/planeta-peligro'
             />
             <CardItem
-              src='https://mir-s3-cdn-cf.behance.net/project_modules/disp/1eb784117530457.60776883a2837.png'
-              text='Ben & Frank '
+              src='https://mir-s3-cdn-cf.behance.net/project_modules/disp/654a7d117530457.607b963056988.png'
+              text='Gurú de viaje'
               label='Chatbot'
-              path='/ben-and-frank'
+              path='/guru-de-viaje'
             />
             <CardItem
               src='https://mir-s3-cdn-cf.behance.net/project_modules/disp/edf136117528095.60775d9518b6c.jpeg'
@@ -26,8 +26,14 @@ function Cards() {
               label='UX Research'
               path='/pokemon-go'
             />
+            <CardItem
+              src='https://mir-s3-cdn-cf.behance.net/project_modules/disp/038217117528095.60775d9519d68.png'
+              text='Cielito Querido Café'
+              label='Chatbot'
+              path='/cielito-querido'
+            />
           </ul>
-          <ul className='cards__items'>
+          {/* <ul className='cards__items'>
             <CardItem
               src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0aa45d117528095.60775d951910e.jpg'
               text='¿Quién sabe más?'
@@ -46,7 +52,7 @@ function Cards() {
               label='Voice Interface'
               path='/augur'
             />
-          </ul>
+          </ul> */}
         </div>
       </div>
     </div>

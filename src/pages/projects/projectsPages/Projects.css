@@ -2,6 +2,7 @@
   width: 100%;
   padding: 5% 10%;
 }
+
 .project-content > .text_img{
   display:flex;
   align-items: center;
@@ -39,7 +40,7 @@
 }
 
 .repo {
-  color: blueviolet;
+  color: #7122FA;
 }
 
 .repo:hover{
@@ -69,4 +70,33 @@ li {
   list-style-type: "💬";
   line-height: 1.5em;
   padding: 0 0 0 50px;
+}
+
+.video-containter {
+  display: flex;
+  align-items: center;
+}
+
+.video-containter > iframe{
+  margin:20px;
+  box-shadow: 0 6px 20px rgba(56, 125, 255, 0.17);
+  border-radius: 10px;
+}
+
+.fa-external-link-alt {
+  color: #7122FA;
+}
+
+
+@media screen and (max-width: 480px) {
+  .video-containter {
+  display: block;
+  align-items: center;
+  }
+  .video-containter > iframe{
+    width: 300px;
+  }
+  .dialogflow{
+    width: 300px;
+  }
 }

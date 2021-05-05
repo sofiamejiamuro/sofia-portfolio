@@ -6,7 +6,7 @@ const CielitoQueridoBot = () => {
   return (
     <div>
       <ProjectBanner 
-        area="Conversational Chatbot Design"
+        area="Chatbot Design"
         title="Cielito Querido Café"
       />
       <div className="project-content">
