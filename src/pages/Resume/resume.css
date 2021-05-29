@@ -1,0 +1,79 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.resume-container{
+  padding: 2% 5%;
+
+}
+
+.resume-title{
+  /* Fallback: Set a background color. */
+  background-color: #560a86;
+  
+  /* Create the gradient. */
+  background: rgb(113,34,250);
+  background-image: linear-gradient(133deg, rgba(113,34,250,1) 2%, rgba(255,172,252,1) 100%);
+  
+  /* Set the background size and repeat properties. */
+  background-size: 100%;
+  background-repeat: repeat;
+
+  /* Use the text as a mask for the background. */
+  /* This will show the gradient as a text color rather than element bg. */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+}
+
+.resume-h3{
+  color: #7122FA;
+}
+
+.experience-container{
+margin: 5% 0;
+}
+
+
+.experience-container > p{
+padding: 0 1.5rem;
+}
+
+
+
+.uls-container {
+  display: flex;
+  justify-content: center;
+  margin: 3% 0;
+}
+.uls-container > .ul-div{
+width: 100%;
+margin: 0 2%;
+}
+.uls-container > .ul-div > h3 {
+text-align: center;
+}
+.resume-ul {
+  list-style-type: "💬";
+  line-height: 1.5em;
+  padding: 0 0 0 50px;
+
+}
+
+li {
+  padding: 0 0 0 15px;
+}
+
+@media screen and (max-width: 480px) {
+ 
+  .uls-container {
+    display: block;
+    justify-content: center;
+    margin: 3% 0;
+  }
+
+}

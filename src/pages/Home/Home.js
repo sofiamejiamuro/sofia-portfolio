@@ -5,6 +5,8 @@ import './Home.css';
 import HeroSection from '../../components/HeroSection/HeroSection';
 import About from '../About/About';
 import Projects from '../Projects/Projects';
+import Resume from '../Resume/Resume';
+import Contact from '../Contact/Contact';
 
 const Home = () => {
 
@@ -30,7 +32,7 @@ const Home = () => {
         sections && 
         <>
           <About />
-          <Projects />
+          <Contact />
         </>
       }
     </>
