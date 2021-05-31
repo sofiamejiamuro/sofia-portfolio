@@ -23,6 +23,11 @@ const Resume = () => {
             <p>Estoy a cargo del mantenimiento del sitio web de la organización. Las herramientas tecnológicas de este proyecto son Wordpress y PHP. Para la organización del equipo se utiliza Asana y Slack. </p>
           </div>
           <div className="experience-container">
+            <h4 className="resume-h3">CONVERSATIONAL AND USER EXPERIENCE DESIGNER</h4>
+            <h5>Side Projects | Diciembre 2019 - presente</h5>
+            <p>He realizado diferentes proyectos que están enfocados al diseño conversacional, como chatbots e interfaces de voz. El proceso incluye el diseño de la conversación,la investigación del usuario y el desarrollo.</p>
+          </div>
+          <div className="experience-container">
             <h4 className="resume-h3">FRONTEND DEVELOPER</h4>
             <h5>Pefai | Diciembre 2019 - Mayo 2021</h5>
             <p>Como frontend dev estuve a cargo de desarrollar las interfaces de usuario, las tecnologías que utilicé son JavaScript, TypeScript, React, SASS y emotion. Seguí una metodología ágil, entregas por sprint y Azure Boards para la organización de tareas.</p>

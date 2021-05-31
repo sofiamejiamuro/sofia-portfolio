@@ -11,9 +11,9 @@ const PokemonGo = () => {
       />
       <div className="project-content">
         <h4>El problema</h4>
-        <p>La visualización de la data proporiconada en el juego Pokemon Go. La información qeu proporciona sobre cada Pokemón no es en su totoalidad la que el usuario necesita y hace uso de recursos externos</p>
+        <p>La visualización de la data proporcionada en el juego Pokemon Go. La información que proporciona sobre cada Pokemón no es en su totalidad la que el usuario necesita y hace uso de recursos externos</p>
         <h4>Proceso Creativo</h4>
-        <p>Para llevar acabo esta investigación se uso un poco de distintas metodologías, UX Research, Lean UX y Design Thinking. El primer paso fue elegir el tema , el que más me llamó la atención fue Pokemon Go, una vez decidido comencé a revisar la data proporcionada y a pensar en el usuario.</p>
+        <p>Para llevar acabo esta investigación se uso un poco de distintas metodologías, UX Research, Lean UX y Design Thinking. El primer paso fue elegir el tema, el que más me llamó la atención fue Pokemon Go, una vez decidido comencé a revisar la data proporcionada y a pensar en el usuario.</p>
         <div className="text_img">
           <div className="text">
             <h4>¡A Jugar!</h4>  
@@ -32,13 +32,13 @@ const PokemonGo = () => {
         </div>
         
         <h4>¿QUÉ ES LO QUE QUIEREN VER LOS JUGADORES DE POKÉMON GO?</h4>
-        <p>En resumen, las necesidades de los usuarios eran saber los Individual Values (IV) que son los valores individuales de cada pokémon; ataque, defensa y estamina (vida), datos útiles a la hora de combate, y saber sobre los ataques de cada pokémon.</p>
+        <p>En resumen, las necesidades de los usuarios eran saber los Individual Values (IV) que son los valores individuales de cada pokémon: ataque, defensa y estamina (vida), datos útiles a la hora de combate, y saber sobre los ataques de cada pokémon.</p>
         <h4>¿PROPUESTA?</h4>
         <p>Al conocer las necesidades de los usuarios el planteamiento fue hacer una página web que permitiera comparar esas características entre dos o tres ejemplares de pokémon.</p>
         <h4>PROBLEMÁTICA</h4>
         <p>Ahora que ya tenía de dónde partir, contrasté la data proporcionada en el archivo src con lo mostrado en la interfaz del juego.</p>
       
-        <p>Al revisar la data que se proporcionó y las necesidades que se detectaron en las entrevistas… !Oh sorpresa! No se ajustaban,fue entonces que hice un poco de investigación en blogs y videos de youtube donde confirmé que las necesidades que se expresaron en las entrevistas eran generalizadas. En este punto investigué qué herramientas proporcionan una resolución a esas sugerencias, se econtraron dos aplicaciones para Android y una para IOS, sin embargo ninguna de ellas compara los valores de los pokemones.</p>
+        <p>Al revisar la data que se proporcionó y las necesidades que se detectaron en las entrevistas… !Oh sorpresa! No se ajustaban, fue entonces que hice un poco de investigación en blogs y videos de youtube donde confirmé que las necesidades que se expresaron en las entrevistas eran generalizadas. En este punto investigué qué herramientas proporcionan una resolución a esas sugerencias, se econtraron dos aplicaciones para Android y una para IOS, sin embargo ninguna de ellas compara los valores de los pokemones.</p>
         <figure >
           <img 
             src='https://mir-s3-cdn-cf.behance.net/project_modules/1400/6517f9117528361.60775eda6785b.png' alt="pokemon_3"
